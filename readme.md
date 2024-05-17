@@ -22,7 +22,8 @@ PushOne 消息推送平台。
 + 修复设备资料更新
 + 历史消息功能上线
 
-📮Help
+📮 Help
+
 进入历史消息需要首先进入 PushOne 首页，右上角头像处进入 历史消息 功能
 
 ![历史消息](https://github.com/QYG2297248353/utools-push-one/assets/56836951/fa2b8181-301c-4f42-a43d-1ca7b784fbc9)
