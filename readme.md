@@ -6,6 +6,8 @@ PushOne 消息推送平台。
 
 发布地址：https://github.com/QYG2297248353/push-one-utools-plugIn
 
+使用教程：https://yuanliao.info/d/20551-pushone
+
 
 ## 版本说明
 
